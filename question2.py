@@ -20,7 +20,7 @@ def solution(A, B, C, D):
     
     return len(valid_times)
 
-print(solution(1, 8, 3, 2))  # Output: 2
+print(solution(1, 8, 3, 2))  # Output: 6
 print(solution(2, 3, 3, 2))  # Output: 3
 print(solution(6, 2, 4, 7))  # Output: 0
 print(solution(5, 5, 5, 1)) # Output: 1
